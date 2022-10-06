@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #141414;
+}
+
+.nav-bar {
+  height: 60px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-color: #222;
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+}
